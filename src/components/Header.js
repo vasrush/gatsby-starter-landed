@@ -99,6 +99,7 @@ class Header extends React.Component {
               role="button"
               onClick={() => this.toggleHamburger()}
               className="toggle"
+              aria-label="Open mobile menu"
             ></a>
             <span className="title">
               <Link to="/">{siteTitle}</Link>

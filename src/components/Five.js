@@ -13,6 +13,7 @@ const Five = props => (
           <div className="row gtr-uniform gtr-50">
             <div className="col-8 col-12-xsmall">
               <input
+                aria-label="Your email"
                 type="email"
                 name="email"
                 id="email"
@@ -21,6 +22,8 @@ const Five = props => (
             </div>
             <div className="col-4 col-12-xsmall">
               <input
+                aria-label="Submit the form"
+                id="submitForm"
                 type="submit"
                 value="Get Started"
                 className="fit primary"

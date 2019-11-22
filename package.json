@@ -2,7 +2,7 @@
   "name": "gatsby-starter-landed-v2",
   "description": "Gatsby Starter - Landed V2",
   "version": "1.0.0",
-  "author": "vasrush",
+  "author": "Vasilis Gakis",
   "dependencies": {
     "gatsby": "^2.18.1",
     "gatsby-image": "^2.2.33",
